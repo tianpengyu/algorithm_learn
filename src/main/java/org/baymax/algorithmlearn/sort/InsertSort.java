@@ -57,7 +57,7 @@ public class InsertSort {
       if (value >= data[targetIndex]) {
         break;
       }
-      data[cur] = data[targetIndex];
+      data[targetIndex + 1] = data[targetIndex]; // 注意⚠️ 当时这里写成：data[cur] = data[targetIndex]
     }
     // 这里 需要注意下，因为实现时，退出 上面的 for-loop 的条件是 不满足大小：
     // 也就是 targetIndex 处的数据 已经小于等于 value 了，不需要在向前遍历了，那么 target + 1 才是真正要插入 value 的位置
