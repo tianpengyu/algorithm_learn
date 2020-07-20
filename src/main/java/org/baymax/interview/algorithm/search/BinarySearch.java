@@ -1,4 +1,4 @@
-package org.baymax.algorithmlearn.search;
+package org.baymax.interview.algorithm.search;
 
 import java.math.BigDecimal;
 import java.util.Objects;

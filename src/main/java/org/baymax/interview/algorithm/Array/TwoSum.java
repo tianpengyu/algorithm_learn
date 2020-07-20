@@ -1,4 +1,4 @@
-package org.baymax.algorithmlearn.leetcode.Array;
+package org.baymax.interview.algorithm.Array;
 
 /**
  * two sum

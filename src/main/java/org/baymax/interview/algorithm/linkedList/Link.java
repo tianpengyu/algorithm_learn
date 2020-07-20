@@ -1,4 +1,4 @@
-package org.baymax.algorithmlearn.linkedList;
+package org.baymax.interview.algorithm.linkedList;
 
 /**
  * @author tianpengyu

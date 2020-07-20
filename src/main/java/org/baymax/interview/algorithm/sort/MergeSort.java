@@ -1,4 +1,4 @@
-package org.baymax.algorithmlearn.sort;
+package org.baymax.interview.algorithm.sort;
 
 import java.util.Arrays;
 import java.util.Objects;
