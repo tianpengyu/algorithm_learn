@@ -1,4 +1,4 @@
-package org.baymax.algorithmlearn.SwordFingerOffer;
+package org.baymax.interview.algorithm.SwordFingerOffer;
 
 import java.util.*;
 

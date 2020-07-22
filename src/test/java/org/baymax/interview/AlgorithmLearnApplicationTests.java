@@ -1,4 +1,4 @@
-package org.baymax.algorithmlearn;
+package org.baymax.interview;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

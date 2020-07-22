@@ -1,4 +1,4 @@
-package org.baymax.algorithmlearn.sort;
+package org.baymax.interview.algorithm.sort;
 
 /**
  * 我会讲三种时间复杂度是 O (n) 的排序算法：桶排序、计数排序、基数排序。

@@ -1,7 +1,6 @@
-package org.baymax.algorithmlearn.sort;
+package org.baymax.interview.algorithm.sort;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Objects;
 import java.util.Random;
 

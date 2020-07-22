@@ -1,6 +1,6 @@
-package org.baymax.algorithmlearn.link;
+package org.baymax.interview.link;
 
-import org.baymax.algorithmlearn.linkedList.LinkedNode;
+import org.baymax.interview.algorithm.linkedList.LinkedNode;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

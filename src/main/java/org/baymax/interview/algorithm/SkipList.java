@@ -1,4 +1,4 @@
-package org.baymax.algorithmlearn.DataStructure;
+package org.baymax.interview.algorithm;
 
 /**
  * 跳表
