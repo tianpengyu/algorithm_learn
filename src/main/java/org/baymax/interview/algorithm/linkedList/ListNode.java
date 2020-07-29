@@ -9,12 +9,20 @@ public class ListNode {
   int val;
   ListNode next;
 
-  ListNode(int x) {
-    val = x;
+  ListNode() {
   }
 
-  public static  ListNode createLinkedList(int[] arr) {
-    if (arr == null || arr.length ==0) {
+  ListNode(int val) {
+    this.val = val;
+  }
+
+  ListNode(int val, ListNode next) {
+    this.val = val;
+    this.next = next;
+  }
+
+  public static ListNode createLinkedList(int[] arr) {
+    if (arr == null || arr.length == 0) {
       return null;
     }
 
@@ -22,7 +30,7 @@ public class ListNode {
 
     ListNode curNode = head;
 
-    for (int i = 1; i <= arr.length-1; i++){
+    for (int i = 1; i <= arr.length - 1; i++) {
       curNode.next = new ListNode(arr[i]);
       curNode = curNode.next;
     }
@@ -37,4 +45,5 @@ public class ListNode {
     }
     System.out.println("null");
   }
+
 }
