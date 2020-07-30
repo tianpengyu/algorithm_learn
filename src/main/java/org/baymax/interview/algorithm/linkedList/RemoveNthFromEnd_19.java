@@ -23,15 +23,8 @@ public class RemoveNthFromEnd_19 {
       tail = tail.next;
     }
 
-    if (tail == null) {
-      if (i == n + 2) {
-        ListNode next = pre.next;
-        pre.next = next.next;
-        next.next = null;
-        return dummyHead.next;
-      } else {
-        return head;
-      }
+    if (tail == null && i != n + 2) {
+     return head;
     }
 
     while (tail != null) {
