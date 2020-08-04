@@ -1,6 +1,5 @@
 package org.baymax.interview.algorithm.tree;
 
-import com.sun.jmx.remote.internal.ArrayQueue;
 import lombok.Data;
 
 import java.util.HashMap;

@@ -11,6 +11,15 @@ package org.baymax.interview.algorithm.recursion;
  *   154
  *
  * 3.
+ *
+ *
+ * 注意递归结构
+ * 1. 递归结束
+ * 2. 递归体（递归逻辑）
+ *
+ * 注意 递归结束条件
+ * 复杂的递归逻辑
+ *
  * @author tianpengyu
  * @version 1.0
  * @date 2020/8/1 09:56
