@@ -1,6 +1,9 @@
 package org.baymax.interview.algorithm.tree;
 
 /**
+ *
+ * 灵活运用 函数的含义， 举个简单的例子
+ *
  * @author tianpengyu
  * @version 1.0
  * @date 2020/8/3 22:18
