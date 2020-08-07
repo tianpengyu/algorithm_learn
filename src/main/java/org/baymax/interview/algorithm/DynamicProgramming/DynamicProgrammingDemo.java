@@ -23,6 +23,7 @@ package org.baymax.interview.algorithm.DynamicProgramming;
  *                        解决1：记忆画搜索 - 自顶向下的解决
  *                      /
  * 递归问题 -> 重叠子问题
+ *            最优子结构
  *                      \
  *                        解决2：动态规划 - 自底向上解决问题
  *
