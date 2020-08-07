@@ -1,4 +1,4 @@
-package org.baymax.interview.algorithm.jvm;
+package org.baymax.interview.second.jvm;
 
 import java.util.concurrent.TimeUnit;
 
