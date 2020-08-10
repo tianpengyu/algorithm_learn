@@ -10,6 +10,6 @@ public class CountCompleteTreeNodes_222 {
     if (root == null) {
       return 0;
     }
-    return countNodes(root.left) + countNodes(root.right) + 1;
+    return countNodes(root.left) + countNodes(root.right);
   }
 }
